@@ -1,3 +1,4 @@
 MA PROJECT
 -Konsisten untuk membuat konten 
 -Membuat app
+-Mebuat e-commerce
